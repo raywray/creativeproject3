@@ -6,7 +6,7 @@
         <h1>{{watch.name}}</h1>
       </div>
       <div class="image">
-        <img :src="'/images/watches/'+watch.image">
+        <img :src="'/images/products/'+watch.image">
       </div>
       <div class="price">
         <p>{{watch.price}}</p>
